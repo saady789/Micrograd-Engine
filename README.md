@@ -1,6 +1,16 @@
 # Micrograd-Engine
 
-My implementation of micrograd engine.
+My implementation of the micrograd engine, built from scratch in Python to understand automatic differentiation and neural network training at a low level.
+
+<p align="center">
+  <a href="assets/nn_graph.png">
+    <img src="assets/nn_graph.png" width="850" alt="Computation Graph Preview">
+  </a>
+</p>
+
+<p align="center">
+  <a href="assets/nn_graph.png">🔗 View full-resolution computation graph</a>
+</p>
 
 ## Key Features & Benefits
 
